@@ -1,0 +1,2 @@
+# sino
+about sinocode manager
